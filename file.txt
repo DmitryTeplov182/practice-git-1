@@ -1,2 +1,6 @@
 My first line in project
 Paris is the capital of France
+
+New string 1
+
+New string 2
